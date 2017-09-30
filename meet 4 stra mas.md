@@ -7,13 +7,13 @@
     yang berhubungan dengan memenangkan
     dan mempertahankan pelanggan setia
 -   "Rahasia"
-       Memahami terlebih dahulu kebutuhan target
+    -   Memahami terlebih dahulu kebutuhan target
         pelanggan ', permintaan, dan keinginan sebelum
         pesaing
-       Menawarkan produk dan layanan pada mereka
+    -   Menawarkan produk dan layanan pada mereka
         untuk memenuhi kebutuhan, tuntutan, dan
         keinginan tersebut
-       Melayani pelanggan dengan kualitas, pelayanan,
+    -   Melayani pelanggan dengan kualitas, pelayanan,
         kenyamanan, dan nilai sehingga mereka akan
         terus datang kembali
 
@@ -99,12 +99,12 @@ Tiga sumber daya penting:
     pelanggan sehingga mereka akan terus datang
     kembali untuk melakukan pembelian ulang
 -   Langkah-langkah:
-       Membangun database informasi pelanggan
-       Mengidentifikasi pelanggan terbaik dan paling
+    -   Membangun database informasi pelanggan
+    -   Mengidentifikasi pelanggan terbaik dan paling
         menguntungkan
-       Mengembangkan hubungan yang langgeng dengan
+    -   Mengembangkan hubungan yang langgeng dengan
         pelanggan
-       Menarik lebih banyak pelanggan seperti mereka
+    -   Menarik lebih banyak pelanggan seperti mereka
 
 # Prinsip IKAN!
 -   Prinsip   IKAN   1.   Tentukan sikap Anda
@@ -135,10 +135,10 @@ Tiga sumber daya penting:
 -   94% dari pelanggan yang tidak puas tidak pernah
     mengeluh tentang layanan kasar atau tidak
     sopan, tapi ...
-      91% tidak akan membeli dari bisnis itu lagi
-      31% akan memberitahu orang lain tentang
+     - 91% tidak akan membeli dari bisnis itu lagi
+     - 31% akan memberitahu orang lain tentang
        pengalaman buruk mereka
-      48% menghindari toko karena pengalaman
+     - 48% menghindari toko karena pengalaman
        negatif orang lain dengan itu
 
 # Cara Berfokus pada Nasabah
@@ -324,7 +324,7 @@ Tiga aspek Manajemen Kompresi Waktu
 -   2010: E-commerce menyumbang 13% dari
     penjualan ritel (misal)
 -   Lakukan dengan benar!
-      penelitian Empiris: 20% dari pembeli online
+     - penelitian Empiris: 20% dari pembeli online
        mengatakan bahwa pengalaman online yang
        negatif menyebabkan mereka berhenti
        melakukan bisnis - baik online dan offline -
